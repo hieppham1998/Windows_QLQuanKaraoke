@@ -1,2 +1,2 @@
 # Windows_QLQuanKaraoke
-Ngôn Ngữ c#, dotnetbar
+Ngôn Ngữ c#, dotnetbar, SQL Server
