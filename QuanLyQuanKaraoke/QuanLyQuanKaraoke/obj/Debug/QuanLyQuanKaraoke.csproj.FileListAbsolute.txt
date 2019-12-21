@@ -1,0 +1,445 @@
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\Win nâng cao\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+D:\GITHUB\Project-Win\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Login.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Login.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.GiaoCa.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ResetPassWord.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Phong.resources
+C:\Users\phanv\Desktop\Ex\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\phanv\Desktop\Ex\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\phanv\Desktop\Ex\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\phanv\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.GiaoCa.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Phong.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ResetPassWord.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\QuanLyQuanKaraoke\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.GiaoCa.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Phong.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ResetPassWord.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\new\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+D:\new\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\new\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\new\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\new\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.GiaoCa.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Phong.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ResetPassWord.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+D:\new\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DatPhong.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.GiaoCa.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+D:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+E:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+E:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+E:\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\Hiệp Gà\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\Hiệp Gà\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\Hiệp Gà\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DatPhong.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+D:\Hiệp Gà\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DatPhong.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+E:\New folder\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+C:\Users\Asus\Desktop\GitHub\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+C:\Users\Asus\Desktop\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Desktop\Đồ Án\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\New folder\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Desktop\New folder\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\New folder\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.dll
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DoiPhong.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+C:\Users\phanv\Downloads\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_BanHang.RPTHoaDon.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Control_DangNhap.pdb
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_BanHang.RPTHoaDon.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+C:\Users\Asus\Downloads\Compressed\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\DoAn\Project-Karaoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_BanHang.RPTHoaDon.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ChiTietPhieuNhap.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanChi.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BaoCao_ThongKe.ThongKe_KhoanThu.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmDatPhong.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhong.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmPhongHat.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmThietBi.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.SoLuongTB.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.BanHang.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DichVu.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.KhachHang.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_BanHang.RPTHoaDon.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TraPhong.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.DoThatLac.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_DV.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.NhapKho_TB.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemDichVu.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_NhanVien_KhachHang.ThemThietBi.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.DangNhap.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FormMain.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frmNhanVien.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QL_TaiKhoan_PhanQuyen.DoiMatKhau.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.QuanLyTaiKhoan.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.TaoKetNoi.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.ThemTaiKhoan.resources
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\Nhom11_QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\Nhom11_QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\Học Tập\KỲ 1 NĂM 4\Công Nghệ Phần Mềm\Đồ Án\Nhom11_QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb

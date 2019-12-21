@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQ">
+  <DataContextMoniker Name="/LINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7b899b8e-0a28-4217-b172-892731a2779f" absoluteBounds="2.75, 2.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LINQDataContext/Phong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1035f8ac-417a-45f6-91a5-ad859eaaa10e" absoluteBounds="2.765, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d1ec907-9c00-41d4-9f84-1e66117ad975" absoluteBounds="2.125, 0.875, 2.625, 1.3862939453125">
+      <DataClassMoniker Name="/LINQDataContext/ThietBi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="05a6a784-45c2-4c7a-9f47-17886fef62eb" absoluteBounds="2.14, 1.335, 2.5949999999999998, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

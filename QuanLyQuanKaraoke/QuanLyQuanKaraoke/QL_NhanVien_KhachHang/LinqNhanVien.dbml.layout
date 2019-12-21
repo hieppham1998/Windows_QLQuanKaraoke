@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinqNhanVien">
+  <DataContextMoniker Name="/LinqNhanVienDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4182a978-e7a3-49ff-9a70-b9dac12ec791" absoluteBounds="3.5, 1.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LinqNhanVienDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b15c21fa-39d2-42f8-9cb4-58ee4064ab33" absoluteBounds="3.515, 1.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
